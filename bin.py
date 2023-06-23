@@ -19,6 +19,6 @@ def binary_search(list, element):
     return -1     
 
 my_list = [1,2,3,4,5,6,7,8,9,10,11,12,13,14]
-target = 14
+target = 2
 
 binary_search(my_list, target)
